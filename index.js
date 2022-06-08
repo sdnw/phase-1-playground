@@ -1,7 +1,1 @@
-// all code written here is accessible in the browser console through the connection to our index.html file
-
-let cohort = "no name :(";
-
-let header = document.querySelector("h1");
-
-console.log(header);
+let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
